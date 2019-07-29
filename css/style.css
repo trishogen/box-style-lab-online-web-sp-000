@@ -22,6 +22,7 @@ h4 {
   display: inline-block;
   padding: 5px;
   margin: 20px 0 0 0;
+  background: linear-gradient(to right, #FFF, #000)
 }
 
 .amiable {
@@ -40,7 +41,6 @@ h4 {
   background-color: #dd4444;
   border: 1px solid #963636;
   box-shadow:  -1px 1px #963636, -2px 2px #963636, -3px 3px #963636, -4px 4px #963636, -5px 5px #963636;
-  background: linear-gradient(to right, #FFF, #000)
 }
 
 .column {
