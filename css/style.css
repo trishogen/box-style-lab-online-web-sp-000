@@ -25,10 +25,6 @@ h4 {
 }
 
 h4.amiable{
-  width: fit-content;
-  display: inline-block;
-  padding: 5px;
-  margin: 20px 0 0 0;
   background: linear-gradient(to right, #FFF, #000)
 }
 .amiable {
