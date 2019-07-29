@@ -5,10 +5,8 @@ body, html {
   margin: 0 auto;
   display: block;
   text-align: center;
-  background-image: url('../images/white-wood.jpg');
-  background-repeat:no-repeat;
-  background-size:cover;
-  background: linear-gradient(to right, #FFF, #000)
+  background: url("../images/white-wood.jpg") no-repeat fixed;
+  background-size: cover;
 }
 
 .container, h1 {
